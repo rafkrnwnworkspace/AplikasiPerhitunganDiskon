@@ -24,7 +24,7 @@ Aplikasi Perhitungan Diskon adalah sebuah program berbasis GUI yang dirancang un
 9.     Validasi Input: Memastikan input harga valid sebelum perhitungan.
 
 ## Demo
-![App Screenshot](https://github.com/rafkrnwnworkspace/AplikasiPerhitunganDiskon/blob/2d1579dbaff3958c282e8025aa52509e2f7174bb/pic/bukti.gif)
+![App Screenshot](https://github.com/rafkrnwnworkspace/AplikasiPerhitunganDiskon/blob/b291fe855a1868dbffcba9325b4301ba321b1176/pic/buktifull.gif)
 
 # Pembuat Aplikasi
  Rafli Arizqi Kurniawan ( 2210010611 ) 
